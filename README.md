@@ -7,3 +7,8 @@ This is an Anime Recommendation System that helps users to search the anime base
 - Python for CLI design
 # Dataset source
 Anime Recommendation Database 2020: https://www.kaggle.com/hernan4444/anime-recommendation-database-2020?select=watching_status.csv
+# Learning Outcome
+- Designing entity–relationship model (ER model)
+- Database schema design using MySQL
+- Building client interface using python
+- Connecting pyhton with database
